@@ -1,12 +1,7 @@
 # saketh korada
 
-`computer engineering @ ucsd` · incoming software engineer intern @ uber
+Computer Engineering student at UC San Diego and Software Engineer Intern at Uber, working on Kubernetes GPU compute.
 
-building software for infrastructure, robotics, and ai-powered developer workflows.
-
-```text
-$ currently
-multi-tenant cloud storage · robotics research · terminal-first ai tooling
-```
+Interested in infrastructure, robotics, and AI-powered developer workflows.
 
 [website](https://sakethkorada.github.io) · [linkedin](https://www.linkedin.com/in/saketh-korada/) · [email](mailto:skorada@ucsd.edu) · [resume](https://sakethkorada.github.io/SakethKoradaResume.pdf)
